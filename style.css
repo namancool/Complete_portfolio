@@ -325,15 +325,15 @@ button:hover{
     float: left;
     background: linear-gradient(135deg, rgb(211, 93, 3)0%, rgb(246, 153, 82)100%);
 }
-.html{
+.excel{
     width:90%;
     animation: html 4s;
 }
-.css{
+.jira{
     width:60%;
     animation: css 4s;
 }
-.javascript{
+.sql{
     width:40%;
     animation: javascript 4s;
 }
@@ -341,7 +341,7 @@ button:hover{
     width:90%;
     animation: python 4s;
 }
-@keyframes html{
+@keyframes excel{
     0%{
         width: 0%;
     }
@@ -349,7 +349,7 @@ button:hover{
         width: 90%;
     }
 }
-@keyframes css{
+@keyframes jira{
     0%{
         width: 0%;
     }
@@ -357,7 +357,7 @@ button:hover{
         width: 60%;
     }
 }
-@keyframes javascript{
+@keyframes sql{
     0%{
         width: 0%;
     }
