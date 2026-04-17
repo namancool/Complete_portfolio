@@ -327,19 +327,19 @@ button:hover{
 }
 .excel{
     width:90%;
-    animation: excel 4s;
+    animation: excel 5s;
 }
 .jira{
     width:60%;
-    animation: jira 4s;
+    animation: jira 5s;
 }
 .sql{
     width:40%;
-    animation: sql 4s;
+    animation: sql 5s;
 }
 .python{
     width:90%;
-    animation: python 4s;
+    animation: python 5s;
 }
 @keyframes excel{
     0%{
