@@ -339,7 +339,7 @@ button:hover{
 }
 .python{
     width:90%;
-    animation: python 5s;
+    animation: python 4s;
 }
 @keyframes excel{
     0%{
