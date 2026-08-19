@@ -545,6 +545,18 @@ footer p:nth-child(2){
     text-align: center;
     line-height: 26px;
 }
+.linkedin a{
+    display: flex;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    padding-top: 10px;  
+}
+.linkedin a:hover{
+    transform: scale(1.3);
+    transition: .4s;
+}
 .github a{
     display: flex;
     font-size: 50px;
